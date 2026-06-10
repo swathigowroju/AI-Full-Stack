@@ -1,2 +1,8 @@
-gsk_*
+.config/
+sample_data/
+*.csv
+*.json
+__pycache__/
+*.pyc
+.env
 gsk_*
