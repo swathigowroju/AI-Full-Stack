@@ -22,4 +22,4 @@ while True:
     print( f"AI: {reply}")
 
     messages.append({"role": "assistant", "content": reply})
-    # ↑ This is how the AI remembers what it said!
+   
